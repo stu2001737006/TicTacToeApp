@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TicTacToeApp.GamePage"
+             Title="Морски Шах">
+
+    <ContentView SizeChanged="ContentView_SizeChanged">
+
+        <ContentView.Resources>
+            <Style TargetType="{x:Type Button}">
+            </Style>
+        </ContentView.Resources>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="100" />
+            </Grid.RowDefinitions>
+            <Grid x:Name="gridBoard" BackgroundColor="SandyBrown" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button FontSize="Large" ClassId="button1" Clicked="Button1_clicked" />
+                <Button FontSize="Large" ClassId="button2" Clicked="Button2_clicked" Grid.Column="1"/>
+                <Button FontSize="Large" ClassId="button3" Clicked="Button3_clicked" Grid.Column="2"/>
+                <Button FontSize="Large" ClassId="button4" Clicked="Button4_clicked" Grid.Row="1"/>
+                <Button FontSize="Large" ClassId="button5" Clicked="Button5_clicked" Grid.Row="1" Grid.Column="1"/>
+                <Button FontSize="Large" ClassId="button6" Clicked="Button6_clicked" Grid.Row="1" Grid.Column="2"/>
+                <Button FontSize="Large" ClassId="button7" Clicked="Button7_clicked" Grid.Row="2"/>
+                <Button FontSize="Large" ClassId="button8" Clicked="Button8_clicked" Grid.Row="2" Grid.Column="1"/>
+                <Button FontSize="Large" ClassId="button9" Clicked="Button9_clicked" Grid.Row="2" Grid.Column="2"/>
+
+            </Grid>
+            <Button x:Name="btnNewGame" FontSize="Medium" Text="Нова Игра" HorizontalOptions="Center" Grid.Row="1" VerticalOptions="Center" Clicked="BtnNewGame_Click" />
+        </Grid>
+        
+    </ContentView>
+
+
+</ContentPage>

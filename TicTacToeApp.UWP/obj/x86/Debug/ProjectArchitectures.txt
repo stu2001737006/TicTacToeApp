@@ -1,0 +1,1 @@
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp.UWP\TicTacToeApp.UWP.csproj;x86

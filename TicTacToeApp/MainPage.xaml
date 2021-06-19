@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TicTacToeApp.MainPage">
+
+    <StackLayout VerticalOptions="Center" Padding="50">
+        <Label Text="Играч 1 (X):" x:Name="Player1Label" HorizontalOptions="Center" FontSize="Medium"/>
+        <Entry Text="" Placeholder="Име на играч 1" x:Name="Player1Entry" FontSize="Medium" />
+        <Label Text="Играч 2 (O):" x:Name="Player2Label" HorizontalOptions="Center" FontSize="Medium" />
+        <Entry Text="" Placeholder="Име на играч 2" x:Name="Player2Entry" FontSize="Medium" />
+        <Button Text="Запази" Clicked="Button_Clicked" FontSize="Medium" />
+        <Button Text="Играй" Clicked="Button2_Clicked" FontSize="Medium" />
+    </StackLayout>
+</ContentPage>

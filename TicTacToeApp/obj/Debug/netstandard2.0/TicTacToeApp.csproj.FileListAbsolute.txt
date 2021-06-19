@@ -1,0 +1,15 @@
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\bin\Debug\netstandard2.0\TicTacToeApp.deps.json
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\bin\Debug\netstandard2.0\TicTacToeApp.dll
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\bin\Debug\netstandard2.0\ref\TicTacToeApp.dll
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\bin\Debug\netstandard2.0\TicTacToeApp.pdb
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\TicTacToeApp.csprojAssemblyReference.cache
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\TicTacToeApp.AssemblyInfoInputs.cache
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\TicTacToeApp.AssemblyInfo.cs
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\TicTacToeApp.csproj.CoreCompileInputs.cache
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\TicTacToeApp.dll
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\ref\TicTacToeApp.dll
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\TicTacToeApp.pdb
+C:\Users\blzs\source\repos\TicTacToeApp\TicTacToeApp\TicTacToeApp\obj\Debug\netstandard2.0\GamePage.xaml.g.cs
